@@ -1,0 +1,14 @@
+/Users/luizdanunciacao/RiderProjects/pooNota3/pooNota3/bin/Debug/net9.0/pooNota3
+/Users/luizdanunciacao/RiderProjects/pooNota3/pooNota3/bin/Debug/net9.0/pooNota3.deps.json
+/Users/luizdanunciacao/RiderProjects/pooNota3/pooNota3/bin/Debug/net9.0/pooNota3.runtimeconfig.json
+/Users/luizdanunciacao/RiderProjects/pooNota3/pooNota3/bin/Debug/net9.0/pooNota3.dll
+/Users/luizdanunciacao/RiderProjects/pooNota3/pooNota3/bin/Debug/net9.0/pooNota3.pdb
+/Users/luizdanunciacao/RiderProjects/pooNota3/pooNota3/obj/Debug/net9.0/pooNota3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luizdanunciacao/RiderProjects/pooNota3/pooNota3/obj/Debug/net9.0/pooNota3.AssemblyInfoInputs.cache
+/Users/luizdanunciacao/RiderProjects/pooNota3/pooNota3/obj/Debug/net9.0/pooNota3.AssemblyInfo.cs
+/Users/luizdanunciacao/RiderProjects/pooNota3/pooNota3/obj/Debug/net9.0/pooNota3.csproj.CoreCompileInputs.cache
+/Users/luizdanunciacao/RiderProjects/pooNota3/pooNota3/obj/Debug/net9.0/pooNota3.dll
+/Users/luizdanunciacao/RiderProjects/pooNota3/pooNota3/obj/Debug/net9.0/refint/pooNota3.dll
+/Users/luizdanunciacao/RiderProjects/pooNota3/pooNota3/obj/Debug/net9.0/pooNota3.pdb
+/Users/luizdanunciacao/RiderProjects/pooNota3/pooNota3/obj/Debug/net9.0/pooNota3.genruntimeconfig.cache
+/Users/luizdanunciacao/RiderProjects/pooNota3/pooNota3/obj/Debug/net9.0/ref/pooNota3.dll
